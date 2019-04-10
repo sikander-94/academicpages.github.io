@@ -1,12 +1,10 @@
 ---
 title: "Tight analyses for non-smooth stochastic gradient descent"
 collection: publications
-permalink: /publication/2018-12-01-sgd
-excerpt: ''
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'We show that returning the final iterate is sub-optimal when running SGD on non-smooth functions in both the strongly-convex and Lipschitz case. We also provide high probability upper bounds on the error of the final iterate and suffix average of SGD.'
+paperurl: 'http://sikander-randhawa.github.io/files/sgd.pdf'
 date: 2018-12-01
-venue: ''
-paperurl: 'http://academicpages.github.io/files/sgd.pdf'
-citation: ''
 ---
 
 
