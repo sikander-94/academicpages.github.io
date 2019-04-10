@@ -1,15 +1,20 @@
 ---
-title: "Paper Title Number 1"
+title: "Tight analyses for non-smooth stochastic gradient descent"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-12-01-sgd
+excerpt: ''
+date: 2018-12-01
+venue: ''
+paperurl: 'http://academicpages.github.io/files/sgd.pdf'
+citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Consider the problem of minimizing functions that are Lipschitz and strongly convex, but not necessarily differentiable. We prove that after T steps of stochastic gradient descent, the error of the final iterate is O(\log(T)/T) with high probability. We also construct a function from this class for which the error of the final iterate of deterministic gradient descent is \Omega(\log(T)/T). This shows that the upper bound is tight and that, in this setting, the last iterate of stochastic gradient descent has the same general error rate (with high probability) as deterministic gradient descent. This resolves both open questions posed by [Shamir 2012].
+
+An intermediate step of our analysis proves that the suffix averaging method achieves error O(1/T) with high probability, which is optimal (for any first-order optimization method). This improves results of [Rakhlin et al. 2012] and [Hazan and Kale 2014], both of which achieved error O(1/T), but only in expectation, and achieved a high probability error bound of O(log log(T)/T), which is suboptimal.
+
+We prove analogous results for functions are Lipschitz and convex, but not necessarily strongly convex or differentiable. After T steps of stochastic gradient descent, the error of the final iterate is O(\log(T)/T^{0.5}) with high probability, and there exists a function for which the error of the final iterate of deterministic gradient descent is \Omega(log(T)/T^{0.5}).
+
+[arXiv](https://arxiv.org/abs/1812.05217)
+
