@@ -1,12 +1,12 @@
 ---
 title: "My favorite hobby is Brazilian Jiu-Jitsu"
-excerpt: "I compete in local torunaments quite often and was recently promoted to blue belt by my coach, Max Nakamura!.<br/><img src='/images/blue-belt.jpg'><img src = '/images/revolution-torunament.jpg'>"
+excerpt: "I compete in local torunaments as often as possible and was recently promoted to blue belt by my coach, Max Nakamura!.<br/><img src='/images/blue-belt.jpg'><img src = '/images/revolution-tournament.jpg'>"
 collection: portfolio
 ---
 
 In March 2019, my BJJ coach (Max Nakamura) promoted me to blue belt. I've been training BJJ for about 1.5 years up to this point. Check out the gym I train at: Gracie Barra Kitsilano ([website](https://gbkitsilano.com/), [instagram](https://www.instagram.com/gbkitsilano/)). 
 
-I also compete as often as I can find time for. Here are some results from tournaments I've medalled in:
+I try to compete as much as I can find time for. Here are some results from tournaments I've medalled in:
 
 - Gracie Barra Compnet November 2018: Bronze, White Belt, 168 lbs
 - Vancouver Island Open June 2018: Bronze, White Belt, 168 lbs
