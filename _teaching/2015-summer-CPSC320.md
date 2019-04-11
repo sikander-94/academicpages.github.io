@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Teaching Assistant"
 collection: teaching
-type: "CPSC221: Introduction to Algorithms"
+type: "CPSC320: Intermediate Algorithms"
 venue: "UBC, Department of Computer Science"
-date: 2014-09-01
+date: 2015-05-01
 ---
