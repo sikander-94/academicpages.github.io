@@ -2,7 +2,7 @@
 title: "Tight analyses for non-smooth stochastic gradient descent"
 collection: publications
 permalink: /publication/2018-12-13-sgd
-excerpt: '(With [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Chris Liaw](https://www.cs.ubc.ca/~cvliaw/), and [Yaniv Plan](http://www.yanivplan.com/)) [[ArXiv](https://arxiv.org/abs/1812.05217), [pdf](https://sikander-randhawa.github.io/talks/sgd-alg-talk)].
+excerpt: '(With [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Chris Liaw](https://www.cs.ubc.ca/~cvliaw/), and [Yaniv Plan](http://www.yanivplan.com/)) [[ArXiv](https://arxiv.org/abs/1812.05217), [pdf](https://sikander-randhawa.github.io/talks/sgd-alg-talk)]'.
 ---
 
 
