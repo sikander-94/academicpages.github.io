@@ -1,6 +1,6 @@
 ---
 title: "My favorite hobby is Brazilian Jiu-Jitsu"
-excerpt: "I compete in local torunaments quite often and was recently promoted to blue belt by my coach, Max Nakamura!.<br/><img src='/images/blue-belt.jpg'><img src = '/images/'>"
+excerpt: "I compete in local torunaments quite often and was recently promoted to blue belt by my coach, Max Nakamura!.<br/><img src='/images/blue-belt.jpg'><img src = '/images/revolution-torunament.jpg'>"
 collection: portfolio
 ---
 
