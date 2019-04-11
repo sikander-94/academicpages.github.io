@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Flying in a Diamond Katana"
+excerpt: "One of my flights in the DA-20 over [Pitt Lake](https://en.wikipedia.org/wiki/Pitt_Lake)<br/><img src='/images/katana.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In the summer of 2011 I earned my Private Pilot Licence through a scholarship with the Royal Canadian Air Cadet program. Shortly after my flight training, I joined a couple of flying clubs at [Boundary Bay Airport](http://www.czbb.com/) to practice my skills!
