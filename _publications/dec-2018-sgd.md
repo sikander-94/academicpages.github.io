@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-12-13-sgd
 venue: "arXiv"
 date: 2018-12-13
-excerpt: 'with [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Chris Liaw](https://www.cs.ubc.ca/~cvliaw/), and [Yaniv Plan](http://www.yanivplan.com/). ([arXiv](https://arxiv.org/abs/1812.05217), [pdf](http://sikander-randhawa.github.io/files/sgd.pdf).'
+excerpt: 'with [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Chris Liaw](https://www.cs.ubc.ca/~cvliaw/), and [Yaniv Plan](http://www.yanivplan.com/). ([arXiv](https://arxiv.org/abs/1812.05217), [pdf](http://sikander-randhawa.github.io/files/sgd.pdf)).'
 ---
 
 
