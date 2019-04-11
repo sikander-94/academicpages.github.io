@@ -2,10 +2,7 @@
 title: "Tight analyses for non-smooth stochastic gradient descent"
 collection: publications
 permalink: /publication/2018-12-13-sgd
-excerpt: '(With [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Chris Liaw](https://www.cs.ubc.ca/~cvliaw/), and [Yaniv Plan](http://www.yanivplan.com/)).
-<br/>
-We show that returning the final iterate is sub-optimal when running SGD on non-smooth functions in both the strongly-convex and Lipschitz case. We also provide high probability upper bounds on the error of the final iterate and suffix average of SGD.'
-date: 2018-12-13
+excerpt: '(With [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Chris Liaw](https://www.cs.ubc.ca/~cvliaw/), and [Yaniv Plan](http://www.yanivplan.com/)) [[ArXiv](https://arxiv.org/abs/1812.05217), [pdf](https://sikander-randhawa.github.io/talks/sgd-alg-talk)].
 ---
 
 
@@ -15,5 +12,5 @@ An intermediate step of our analysis proves that the suffix averaging method ach
 
 We prove analogous results for functions are Lipschitz and convex, but not necessarily strongly convex or differentiable. After T steps of stochastic gradient descent, the error of the final iterate is O(\log(T)/T^{0.5}) with high probability, and there exists a function for which the error of the final iterate of deterministic gradient descent is \Omega(log(T)/T^{0.5}).
 
-View on [arXiv](https://arxiv.org/abs/1812.05217) or download [here](http://sikander-randhawa.github.io/files/sgd.pdf).
+View on [arXiv](https://arxiv.org/abs/1812.05217) or download [here](http://sikander-randhawa.github.io/files/sgd.pdf). See slides [here](https://sikander-randhawa.github.io/talks/sgd-alg-talk).
 
