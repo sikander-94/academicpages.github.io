@@ -22,7 +22,7 @@ Work experience
   * Supervisor: Professor Hu Fu
 
 * Summer 2016: Software Engineer 
-  * MacDonald, Detwiller and Associates
+  * MacDonald, Dettwiler and Associates
   * Helped build features for automated aviation charting software using Perl, Javascript, html.
   * Wrote and implemented new rigorous testing procedures. 
 * Winter 2015: Software Engineer
