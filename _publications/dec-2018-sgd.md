@@ -5,7 +5,8 @@ permalink: /publication/2018-12-13-sgd
 venue: "arXiv"
 date: 2018-12-13
 with: '<a href="https://www.cs.ubc.ca/~nickhar/">Nick Harvey</a>, <a href="https://www.cs.ubc.ca/~cvliaw">Chris Liaw</a>, and <a href="https://www.yanivplan.com">Yaniv Plan</a>'
-
+links: '<a href="https://arxiv.org/abs/1812.05217">arXiv</a>, <a href="http://sikander-randhawa.github.io/files/sgd.pdf">pdf</a>'
+slides: '<a href="https://sikander-randhawa.github.io/files/sgd-talk.pptm)">slides</a>'
 ---
 
 
