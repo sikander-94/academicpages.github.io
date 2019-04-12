@@ -9,6 +9,7 @@ links: '<a href="https://arxiv.org/abs/1812.05217">arXiv</a>, <a href="http://si
 slides: '<a href="https://sikander-randhawa.github.io/files/sgd-talk.pptm)">slides</a>'
 ---
 
+---
 
 Consider the problem of minimizing functions that are Lipschitz and strongly convex, but not necessarily differentiable. We prove that after T steps of stochastic gradient descent, the error of the final iterate is O(\log(T)/T) with high probability. We also construct a function from this class for which the error of the final iterate of deterministic gradient descent is \Omega(\log(T)/T). This shows that the upper bound is tight and that, in this setting, the last iterate of stochastic gradient descent has the same general error rate (with high probability) as deterministic gradient descent. This resolves both open questions posed by [Shamir 2012].
 
