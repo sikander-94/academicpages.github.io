@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-12-13-sgd
 venue: "arXiv"
 date: 2018-12-13
-with: '<a href="https://www.cs.ubc.ca/~nickhar/">Nick Harvey</a>, <a href="https://www.cs.ubc.ca/~cvliaw">, and <a href="https://www.yanivplan.com">'
+with: '<a href="https://www.cs.ubc.ca/~nickhar/">Nick Harvey</a>, <a href="https://www.cs.ubc.ca/~cvliaw">Chris Liaw</a>, and <a href="https://www.yanivplan.com">Yaniv Plan</a>'
 
 ---
 
