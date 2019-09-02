@@ -6,7 +6,7 @@ venue: "arXiv"
 date: 2019-09-04
 with: '<a href="https://www.cs.ubc.ca/~nickhar/">Nick Harvey</a> and <a href="https://www.cs.ubc.ca/~cvliaw">Chris Liaw</a>'
 links: '<a href="https://arxiv.org/abs/1812.05217">arXiv</a>, <a href="http://sikander-randhawa.github.io/files/sgd-non-uni.pdf">pdf</a>'
-slides: '<a href="https://sikander-randhawa.github.io/files/sgd-talk.pptm)">slides</a>'
+slides: '<a href="https://sikander-randhawa.github.io/files/non-uni-avg-talk-ubc.pdf)">slides</a>'
 ---
 
 ---
