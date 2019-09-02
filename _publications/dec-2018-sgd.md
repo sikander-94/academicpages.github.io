@@ -2,11 +2,11 @@
 title: "Tight analyses for non-smooth stochastic gradient descent"
 collection: publications
 permalink: /publication/2018-12-13-sgd
-venue: "arXiv"
-date: 2018-12-13
+venue: "Conference on Learning Theory (COLT'19)"
+date: 2019
 with: '<a href="https://www.cs.ubc.ca/~nickhar/">Nick Harvey</a>, <a href="https://www.cs.ubc.ca/~cvliaw">Chris Liaw</a>, and <a href="https://www.yanivplan.com">Yaniv Plan</a>'
-links: '<a href="https://arxiv.org/abs/1812.05217">arXiv</a>, <a href="http://sikander-randhawa.github.io/files/sgd.pdf">pdf</a>'
-slides: '<a href="https://sikander-randhawa.github.io/files/sgd-talk.pptm)">slides</a>'
+links: '<a href="http://proceedings.mlr.press/v99/harvey19a.html">COLT'19</a>,<a href="https://arxiv.org/abs/1812.05217">arXiv</a>, <a href="http://sikander-randhawa.github.io/files/sgd.pdf">pdf</a>'
+slides: '<a href="https://sikander-randhawa.github.io/files/colt-sgd-talk-2019.pptm)">slides</a>'
 ---
 
 ---
@@ -17,5 +17,5 @@ An intermediate step of our analysis proves that the suffix averaging method ach
 
 We prove analogous results for functions are Lipschitz and convex, but not necessarily strongly convex or differentiable. After T steps of stochastic gradient descent, the error of the final iterate is O(\log(T)/T^{0.5}) with high probability, and there exists a function for which the error of the final iterate of deterministic gradient descent is \Omega(log(T)/T^{0.5}).
 
-View on [arXiv](https://arxiv.org/abs/1812.05217) or download [here](http://sikander-randhawa.github.io/files/sgd.pdf). See slides [here](https://sikander-randhawa.github.io/talks/sgd-alg-talk).
+View [arXiv](https://arxiv.org/abs/1812.05217) version, [COLT'19](http://proceedings.mlr.press/v99/harvey19a.html) version, or download [here](http://sikander-randhawa.github.io/files/sgd.pdf). See slides [here](https://sikander-randhawa.github.io/talks/colt-sgd-talk-2019). Also, our conference poster can be found [here](http://sikander-randhawa.github.io/files/colt-sgd-poster.pdf).
 
