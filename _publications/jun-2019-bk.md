@@ -3,9 +3,10 @@ title: "The Vickrey Auction with a Single Duplicate Bidder Approximates the Opti
 collection: publications
 permalink: /publication/2019-06-28-bk
 venue: "Conference on Economics and Computation (EC'19)"
-date: 2019-09-04
+date: 2019-06-28
 with: '<a href="http://www.fuhuthu.com/">Hu Fu</a> and <a href="https://www.cs.ubc.ca/~cvliaw">Chris Liaw</a>'
 links: '<a href="https://arxiv.org/abs/1905.03773">arXiv</a>, <a href="https://dl.acm.org/citation.cfm?id=3329597">EC'19</a>'
+slides:
 ---
 
 ---
