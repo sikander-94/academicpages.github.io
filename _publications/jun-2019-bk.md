@@ -1,7 +1,7 @@
 ---
 title: "The Vickrey Auction with a Single Duplicate Bidder Approximates the Optimal Revenue"
 collection: publications
-permalink: /publication/2019-06-28-sgd
+permalink: /publication/2019-06-28-bk
 venue: "Conference on Economics and Computation (EC'19)"
 date: 2019-09-04
 with: '<a href="http://www.fuhuthu.com/">Hu Fu</a> and <a href="https://www.cs.ubc.ca/~cvliaw">Chris Liaw</a>'
