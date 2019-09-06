@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sikander Randhawa"
   avatar           : "sikander.jpeg"
-  bio              : "Masters student in the Algorithms Lab at UBC. \n Email: srand@cs.ubc.ca"
+  bio              : "Masters student in the Algorithms Lab at UBC." "Email: srand@cs.ubc.ca"
   location         : "Vancouver, British Columbia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
