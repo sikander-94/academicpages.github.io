@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a second year Masters student in the [Department of Computer Science](https://www.cs.ubc.ca/) at [UBC](https://www.ubc.ca/). I am very fortunate to be advised by [Nicholas Harvey](https://www.cs.ubc.ca/~nickhar/). My research interests include convex optimization, randomized algorithms, and machine learning theory, where I've enjoyed using tools from probability theory, convex analysis, and other areas of mathematics.
+Hi! I am a first year Ph.D student and [Vanier Scholar](https://vanier.gc.ca/en/home-accueil.html) in the [Department of Computer Science](https://www.cs.ubc.ca/) at [UBC](https://www.ubc.ca/). I am very fortunate to be advised by [Nicholas Harvey](https://www.cs.ubc.ca/~nickhar/). Currently I am exploring some new stuff in an effort to merge my academic interests with my hobbies. Vaguely speaking, I am interested in using machine learing to come up with a better understanding of human movement. 
 
-I completed my Bachelors degree with a combined major in mathematics and computer science at UBC in 2018. During my final year, I had the privilege to be introduced to the world of research in TCS by [Hu Fu](http://www.fuhuthu.com/). We worked on efficient algorithms for computing pure Nash equilibria with good social welfare in simultaneous second price auctions. 
+I completed my Bachelors degree with a combined major in mathematics and computer science at UBC in 2018. During my final year, I had the privilege to be introduced to the world of research in Theoretical Computer Science by [Hu Fu](http://www.fuhuthu.com/). We worked on efficient algorithms for computing pure Nash equilibria with good social welfare in simultaneous second price auctions. 
 
-When I'm not doing research, I direct most of my attention to my hobbies: Weightlifting, Brazilian Jiu-Jitsu (BJJ), and wrestling. I love these activities for the same reason I love research. There is so much to learn! Every time that I lift or train BJJ or wrestle, I learn something new to improve my skills. This is precisely the way I feel doing research. I am currently an active local competitor in BJJ.
+In August 2020 I completed my M.Sc in Computer Science under Nick Harvey. We worked on some theoretical machine learning problems involving non-smooth convex optimization and prediction under expert advice. You can find my M.Sc thesis [here](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0392916).
+
+When I'm not doing research you are likely to find me either stretching on my living room floor, on the mats at Brazillian Jiu-Jitsu or wrestling practice, hanging from a pull-up bar or gymnastic rings, or exploring other fun ways to learn more about my body. 
+

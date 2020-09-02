@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics and Computer Science, University of British Columbia, 2018
-* M.S. in Computer Science, University of British Columbia, 2018-
+* M.Sc. in Computer Science, University of British Columbia, 2020
+* Ph.D in Computer Science, University of British Columbia, 2020-
 
 Work experience
 ======
@@ -59,12 +60,14 @@ Service and leadership
 
 * 2011-2012: Squadron Commander of 819 Skyhawk Squadron
   * Oversaw training of ~120 air cadets aged 12-18.
-
 Awards
 ======
-* May 2018 - May 2019: NSERC CGS-M ($17,500) 
+* Sept 2020 - Sept 2023: Vanier Scholarship
+* May 2020: NSERC PGS-D - declined
+* May 2020: UBC Four Year Fellowship
+* May 2018 - May 2019: NSERC CGS-M 
   * Awarded based on academic performance and research potential.
-* Summer 2017: NSERC-USRA ($4000)
+* Summer 2017: NSERC-USRA 
   * Undergraduate research assistant award. 
   * Awarded under supervision of Professor Hu Fu.
 * Summer 2011: Bill Barker top flight training award
@@ -72,6 +75,8 @@ Awards
 
 Extra-Curricular
 =====
-2019: BJJ Blue Belt at Gracie Barra Kitsilano
+* Brazilian Jiu Jitsu:
+  * 2019: Obtained blue belt at Gracie Barra Kitsilano
+  * Currently training at Alliance BJJ Surrey
 
 

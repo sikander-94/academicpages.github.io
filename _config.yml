@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sikander Randhawa"
 title_separator          : "-"
 name                     : &name "Sikander Randhawa"
-description              : &description "Masters student in the Algorithms lab at the University of British Columbia."
+description              : &description "I am a Ph.D student and Vanier Scholar in the Algorithms lab at the University of British Columbia."
 url                      : https://sikander-randhawa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sikander-randhawa.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Sikander Randhawa"
   avatar           : "sikander.jpeg"
-  bio              : "Masters student in the Algorithms Lab at UBC." 
+  bio              : "Ph.D student and Vanier Scholar in the Algorithms Lab at UBC." 
   location         : "Vancouver, British Columbia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "srand@cs.ubc.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=w9FOUDQAAAAJ"
+  email            : "srand@cs.ubc.ca"
+  researchgate     :  "https://www.researchgate.net/profile/Sikander_Randhawa"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   github           : #"academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/sikanderandhawa/?hl=en"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
