@@ -1,6 +1,6 @@
 ---
 title: "My favorite hobby is Brazilian Jiu-Jitsu"
-excerpt: "I compete in local torunaments as often as possible and was recently promoted to blue belt by my coach, Max Nakamura!<br/><img src='/images/blue-belt.jpg'>."
+excerpt: "I compete in local torunaments as often as possible and was recently promoted to blue belt by my coach, Max Nakamura!<br/><img src='/images/blue-belt.jpg'>"
 collection: portfolio
 ---
 ---
@@ -22,4 +22,14 @@ I try to compete as much as I can find time for. Here are some results from tour
 <figure>
   <img src='/images/back-control-1.jpg'>
   <figcaption>Back control at the 2019 CBJJF Vancouver Open.</figcaption>
+</figure>
+
+<figure>
+  <img src='/images/revolution-tournament.jpg'>
+  <figcaption>My friend Jack and I after the 2019 Revolution BJJ tournament in Tacoma.</figcaption>
+</figure>
+
+<figure>
+  <img src='/images/ubc-bjj.jpg'>
+  <figcaption>Training with the awesome people at the UBC BJJ club!</figcaption>
 </figure>
