@@ -1,11 +1,5 @@
 {% include base_path %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
@@ -16,7 +10,11 @@
 
 
 <div>
-  <p>{{title}}. Published in {{post.venue}}, {{post.location}}, {{post.date}}. (with {{post.with}})</p>
+  <p><b>{{title}}.</b> Published in {{post.venue}}, {{post.location}}, {{post.date}}. <i>(with {{post.with}})</i> [{{ post.links }}]</p>
 </div>
 
 
+<button type="button" class="collapsible">Abstract</button>
+<div class="content">
+  <p>{{post.abstract}}</p>
+</div>
