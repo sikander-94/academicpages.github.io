@@ -34,7 +34,7 @@
     </h2> 
     <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
     <p class="archive__item-excerpt" itemprop="description">
-      <span>with {{post.coauthors}}. {{post.venue}}.</span>
+      <span>with {{ post.with }} in {{ post.venue }}.</span>
     </p>
   </article>
 </div>
