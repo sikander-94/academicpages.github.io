@@ -10,9 +10,5 @@
 
 
 <div>
-  <p><b>{{title}}.</b> Published in {{post.venue}}, {{post.location}}, {{post.year}}. <i>(with {{post.with}})</i> [{{ post.links }}]</p>
+  <p><b>{{title}}.</b> Published in {{post.venue}}, {% if post.location %}{{post.location}},{% endif %} {{post.year}}. <i>(with {{post.with}})</i> [{{ post.links }}]</p>
 </div>
-<button type="button" class="collapsible">Abstract</button>
-<div class="content">
-  <p>{{post.abstract}}</p>
-</div> 
