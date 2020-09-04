@@ -3,6 +3,7 @@ title: "Simple and optimal high-probability bounds for strongly-convex stochasti
 collection: publications
 permalink: /publication/2019-09-04-sgd
 venue: "arXiv"
+date: 09-14-2019
 year: 2019
 with: '<a href="https://www.cs.ubc.ca/~nickhar/">Nick Harvey</a> and <a href="https://www.cs.ubc.ca/~cvliaw">Chris Liaw</a>'
 links: '<a href="https://arxiv.org/abs/1909.00843">arXiv</a>'
