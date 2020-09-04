@@ -5,6 +5,7 @@ permalink: /publication/2018-12-13-sgd
 venue: "Conference on Learning Theory (COLT'19)"
 date: 2019-06-29
 coauthors: [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Chris Liaw](https://www.cs.ubc.ca/~cvliaw), and [Yaniv Plan](https://www.yanivplan.com)
+with: '<a href="https://www.cs.ubc.ca/~nickhar/">Nick Harvey</a>, <a href="https://www.cs.ubc.ca/~cvliaw">Chris Liaw</a>, and <a href="https://www.yanivplan.com">Yaniv Plan</a>'
 links: '<a href="http://proceedings.mlr.press/v99/harvey19a.html">COLT'19</a>,<a href="https://arxiv.org/abs/1812.05217">arXiv</a>, <a href="http://sikander-randhawa.github.io/files/sgd.pdf">pdf</a>'
 slides: '<a href="https://sikander-randhawa.github.io/files/colt-sgd-talk-2019.pptm)">slides</a>'
 ---
