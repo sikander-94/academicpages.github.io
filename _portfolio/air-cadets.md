@@ -1,5 +1,5 @@
 ---
-title: "Spending my teenage years in Air Cadet program"
+title: "The Air Cadet program"
 excerpt: "From age 12-19 I was a member of the Air Cadet program. Here is a picture from my final ceremonial review <br/><img src='/images/acr.jpg'>"
 collection: portfolio
 ---
