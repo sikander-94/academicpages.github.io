@@ -10,5 +10,5 @@
 
 
 <div>
-  <p><b>{{title}}.</b> Published in {{post.venue}}, {% if post.location %}{{post.location}},{% endif %} {{post.year}}. <i>(with {{post.with}})</i> [{{ post.links }}]</p>
+  <p><b>{{title}}.</b> Published in {{post.venue}}, {% if post.location %}{{post.location}},{% endif %} {{post.year}}. {% if post.location %}<i>(with {{post.with}})</i>{% endif %} [{{ post.links }}]</p>
 </div>
