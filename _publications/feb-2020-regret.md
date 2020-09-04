@@ -3,6 +3,7 @@ title: "Optimal anytime regret with two experts"
 collection: publications
 permalink: /publication/2020-02-20-regret	
 venue: "IEEE Symposium on Foundations of Computer Science"
+location: "Virtual Conference"
 date: 2020-11-16
 with: '<a href="https://www.cs.ubc.ca/~nickhar/">Nick Harvey</a>, <a href="https://www.cs.ubc.ca/~cvliaw">Chris Liaw</a>, and <a href="https://www.math.ubc.ca/~perkins/perkins.html">Edwin Perkins</a>'
 links: '<a href="https://arxiv.org/abs/2002.08994">arXiv</a>'
