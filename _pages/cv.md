@@ -60,6 +60,7 @@ Service and leadership
 
 * 2011-2012: Squadron Commander of 819 Skyhawk Squadron
   * Oversaw training of ~120 air cadets aged 12-18.
+  
 Awards
 ======
 * Sept 2020 - Sept 2023: Vanier Scholarship
