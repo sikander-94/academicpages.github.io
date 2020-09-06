@@ -23,3 +23,5 @@ No minimax optimal algorithm was previously known in the anytime setting, regard
 We design the first minimax optimal algorithm for minimizing regret in the anytime setting.
 We consider the case of two experts, and prove that the optimal regret is $\gamma \sqrt{t} / 2$ at all time steps $t$, where $\gamma$ is a natural constant that arose 35 years ago in studying fundamental properties of Brownian motion.
 The algorithm is designed by considering a continuous analogue of the regret problem, which is solved using ideas from stochastic calculus.
+
+You may the paper on arXiv [here](https://arxiv.org/abs/2002.08994). 

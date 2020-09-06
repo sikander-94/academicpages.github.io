@@ -10,5 +10,5 @@
 
 
 <div>
-  <p><a href="{{ base_path }}{{ post.url }}" rel="permalink""><b>{{title}}.</b></a> Published in {{post.venue}}, {% if post.location %}{{post.location}},{% endif %} {{post.year}}. {% if post.location %}<i>(with {{post.with}})</i>{% endif %} [{{ post.links }}]</p>
+  <p><a href="{{ base_path }}{{ post.url }}" rel="permalink""><b>{{title}}.</b></a> Published in {{post.venue}}, {% if post.location %}{{post.location}},{% endif %} {{post.year}}. {% if post.location %}<i>(with {{post.with}})</i>{% endif %} [{{ post.links }}] {% if post.slides %}[{{ post.slides }}]{% endif %}</p>
 </div>
