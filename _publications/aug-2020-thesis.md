@@ -1,6 +1,7 @@
 ---
 title: "M.Sc thesis: Understanding the role of averaging in non-smooth stochastic gradient descent"
 venue: "University of British Columbia open collections"
+premalink: /publication/aug-2020-thesis
 date: 2020-08-28
 year: 2020
 links: '<a href="https://sikander-randhawa.github.io/files/ubc_2020_november_randhawa_sikander.pdf">PDF</a>'

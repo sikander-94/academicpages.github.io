@@ -1,6 +1,7 @@
 ---
 title: "Tight analyses for non-smooth stochastic gradient descent"
 venue: "Conference on Learning Theory"
+permalink: /publication/jun-2019-sgd
 location: "Phoenix, AZ"
 date: 2019-06-24
 year: 2019

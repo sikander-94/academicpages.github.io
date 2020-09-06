@@ -1,7 +1,7 @@
 ---
 title: "Simple and optimal high-probability bounds for strongly-convex stochastic gradient descent"
 collection: publications
-permalink: /publication/2019-09-04-sgd
+permalink: /publication/sep-2019-sgd
 venue: "arXiv"
 date: 2019-09-01
 year: 2019

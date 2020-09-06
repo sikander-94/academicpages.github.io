@@ -1,7 +1,7 @@
 ---
 title: "Optimal anytime regret with two experts"
 collection: publications
-permalink: /publication/2020-02-20-regret	
+permalink: /publication/feb-2020-regret	
 venue: "IEEE Symposium on Foundations of Computer Science"
 location: "Virtual Conference"
 date: 2020-11-16

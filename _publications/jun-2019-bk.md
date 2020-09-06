@@ -1,6 +1,7 @@
 ---
 title: "The Vickrey Auction with a Single Duplicate Bidder Approximates the Optimal Revenue"
 venue: "ACM Conference on Economics and Computation"
+permalink: /publication/jun-2019-bk
 location: "Phoenix, AZ"
 date: 2019-06-24
 year: 2019
