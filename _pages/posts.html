@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Stuff on my mind"
+permalink: /posts/
+author_profile: true
+---
+
+This collection of posts is mainly for me to empty out the contents of my mind. Sometimes thoughts can linger in our minds until they are outwardly expressed, so this blog serves as a venue for me to express myself. That being said, I really do hope that at least one person gains something from one of my posts! 
+
+
+{% for post in site.posts reversed%}
+  {% include archive-single-post.html %}
+{% endfor %}
