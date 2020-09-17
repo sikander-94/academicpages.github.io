@@ -12,8 +12,8 @@ main:
   - title: "Things on my mind: my blog"
     url: /posts/
     
-  - title: "More about me"
-    url: /about-me/
+  # - title: "More about me"
+  #    url: /about-me/
           
   - title: "CV"
     url: /cv/
