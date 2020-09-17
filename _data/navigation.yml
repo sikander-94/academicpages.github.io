@@ -6,11 +6,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-
   - title: "Things on my mind"
     url: /posts/
+
+  - title: "Teaching"
+    url: /teaching/    
     
   # - title: "More about me"
   #    url: /about-me/
